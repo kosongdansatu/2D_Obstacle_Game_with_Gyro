@@ -1,4 +1,4 @@
-# Flappy Bird Gyro untuk Waveshare RP2040 LCD 1.69"
+# 2D Obstacle Game Gyro untuk Waveshare RP2040 LCD 1.69"
 
 Game 2D Obstacle sederhana untuk perangkat Waveshare dengan layar LCD 1,69 inci (resolusi 240 × 280). Burung dikendalikan dengan mengayunkan perangkat; tampilan dan skor dibuat menggunakan LVGL.
 
