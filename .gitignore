@@ -1,0 +1,7 @@
+# Hanya README, daftar dependency, dan logger yang dilacak.
+*
+
+!.gitignore
+!README.md
+!requirements.txt
+!serial_logger.py
